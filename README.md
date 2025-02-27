@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este script é utilizado para enumerar comunidades SNMP em um alvo especificado. Ele permite a verificação de comunidades conhecidas ou definidas pelo usuário e a enumeração de informações adicionais, como hardware, serviços e informações de rede.
+O snmpStealer é utilizado para enumerar o protocol SNMP de um alvo especificado. Ele permite a verificação de comunidades conhecidas definidas pelo usuário através de wordlists ou testes manuais para efetivar a enumeração de outras informações, como hardware, serviços e informações da rede.
 
 É possível também escolher o idioma em que a aplicação funcionará, ao executar o script o usuário poderá escolher entre Inglês (en), Espanhol (es) e Português (pt).
 
